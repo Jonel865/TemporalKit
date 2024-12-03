@@ -5,7 +5,7 @@ import numpy as np
 import math
 import scripts.berry_utility as utilityb
 import scripts.stable_diffusion_processing as sdprocess
-from moviepy.editor import *
+from moviepy import *
 import os
 import subprocess
 import json

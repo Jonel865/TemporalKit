@@ -1,6 +1,6 @@
 import os
 import glob
-from moviepy.editor import *
+from moviepy import *
 import tempfile
 #om nom nom nom
 import requests
